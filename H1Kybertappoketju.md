@@ -1,8 +1,14 @@
 # H1 
 ## X) Tiivistys
 Herrasmishakkerit jakso Niko Nirvi | 0x3f.
-  - sdsds
-  - dsds
+  - Podcastin mukaan selaimen laajennuksia ei tarvitse tietoturvan parantamiseksi mutta salasana pankki olisi kaikille erittäin hyödyllinen
+  - Vieraan Niko Nirvin mielestä tekoäly ei tule tekemään parempaa peliä kuin ihminen
+
+Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains, chapters Abstract, 3.2 Intrusion Kill Chain.
+  - tekstissä kerrotaan erivaiheet mitä kuuluu kill chainiin.
+  - 1 Reconnaissance, 2 Weaponization, 3 Delivery, 4 Exploitation, 5 Installation, 6 Command and Control, 7 Actions on Objectives.
+
+
 
 
 ## a) kali linux lataus
