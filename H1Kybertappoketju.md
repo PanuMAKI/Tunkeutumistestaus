@@ -1,5 +1,7 @@
-# H1
-## X)
+# H1 
+## X) Tiivistys
+Herrasmishakkerit jakso Niko Nirvi | 0x3f.
+  - 
 
 
 ## a) kali linux lataus
@@ -26,3 +28,8 @@ Asennuksen jälkeen portit 22 ja 80 olivat auki.
 ## e) Hack The Box ratkaisu
 <img width="901" height="639" alt="kuva" src="https://github.com/user-attachments/assets/54e00fde-adbd-429d-88e6-52652f1e2d62" />
 
+## lähteet
+https://terokarvinen.com/tunkeutumistestaus/
+https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf chapters Abstract, 3.2 Intrusion Kill Chain.
+https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2003/36
+herrasmieshakkerit.fi jakso, Niko Nirvi | 0x3f.
