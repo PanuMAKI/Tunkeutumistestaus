@@ -1,7 +1,8 @@
 # H1 
 ## X) Tiivistys
 Herrasmishakkerit jakso Niko Nirvi | 0x3f.
-  - 
+  - sdsds
+  - dsds
 
 
 ## a) kali linux lataus
