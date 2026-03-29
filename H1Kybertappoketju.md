@@ -24,3 +24,4 @@ asensin apache2 ja ssh:n jonka jälkeen skannaus näytti tältä.
 Asennuksen jälkeen portit 22 ja 80 olivat auki. 
 
 e)
+<img width="901" height="639" alt="kuva" src="https://github.com/user-attachments/assets/54e00fde-adbd-429d-88e6-52652f1e2d62" />
