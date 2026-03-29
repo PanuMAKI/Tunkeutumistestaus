@@ -44,3 +44,4 @@ https://terokarvinen.com/tunkeutumistestaus/
 https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf chapters Abstract, 3.2 Intrusion Kill Chain.
 https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2003/36
 herrasmieshakkerit.fi jakso, Niko Nirvi | 0x3f.
+https://www.kali.org/get-kali/
