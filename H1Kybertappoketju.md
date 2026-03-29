@@ -8,7 +8,11 @@ Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by An
   - tekstissä kerrotaan erivaiheet mitä kuuluu kill chainiin.
   - 1 Reconnaissance, 2 Weaponization, 3 Delivery, 4 Exploitation, 5 Installation, 6 Command and Control, 7 Actions on Objectives.
 
-
+KKO 2003:36.
+  - Ennakopäätös Op pankin yritetystä tietomurrosta.
+  - käräjäoikeus tostesi syytetyn syylliseksi.
+  - hovioikeus myös todennnut syylliseksi ja korkein oikeus yhtyi hovioikeuden päätökseen
+  - 
 
 
 ## a) kali linux lataus
