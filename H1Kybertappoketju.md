@@ -13,6 +13,7 @@ irrotettu vm netistä.
 
 ## c) Portti skannaus.
 ensimmäisessä skannauksessa näkyy että kaikki 1000 porttia on ignored tilassa. Parametri -T4 on nopeuden säätö ja -A on agressive scanning joka antaa laajemman analyysin.
+
 <img width="644" height="276" alt="kuva" src="https://github.com/user-attachments/assets/f4efc245-d933-40ae-87e9-734de7b6539a" />
 
 
