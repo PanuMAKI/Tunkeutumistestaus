@@ -16,4 +16,8 @@ ensimmäisessä skannauksessa näkyy että kaikki 1000 porttia on ignored tilass
 
 <img width="644" height="276" alt="kuva" src="https://github.com/user-attachments/assets/f4efc245-d933-40ae-87e9-734de7b6539a" />
 
+## d)
+asensin apache2 ja ssh:n jonka jälkeen skannaus näytti tältä.
+
+<img width="637" height="376" alt="kuva" src="https://github.com/user-attachments/assets/b85bdb76-9aaa-4ada-bee5-0e492ae3ee54" />
 
