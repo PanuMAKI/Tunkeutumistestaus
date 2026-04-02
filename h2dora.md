@@ -20,7 +20,6 @@ Kuvissa näkyy että koneet saavat yhteyden toisiinsa mutta eivät internettiin.
 
 ## d) oikean ip:n tarkistaminen.
 
-
 <img width="643" height="140" alt="kuva" src="https://github.com/user-attachments/assets/fb6912ee-5fd4-477e-b120-f7d31757937a" />
 
 <img width="605" height="443" alt="kuva" src="https://github.com/user-attachments/assets/828b8bf1-b4b6-443c-967b-af42f59cc318" />
@@ -34,6 +33,10 @@ Skannaus paljasti että metasploit koneella on useita avoimia portteja kuten por
 
 23 telnet on suojaamaton etäyhteys jonka ssh on korvannut koska telnet käyttää suojaamatonta yhteyttä.
 
+## Lähteet
+https://terokarvinen.com/tunkeutumistestaus/#aikataulu
+
+https://medium.com/cyber-collective/setting-up-metasploitable-in-virtualbox-on-kali-linux-1d5c3212f7f3
 
 
 
