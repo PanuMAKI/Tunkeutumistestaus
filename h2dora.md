@@ -18,8 +18,16 @@ Kuvissa näkyy että koneet saavat yhteyden toisiinsa mutta eivät internettiin.
 
 <img width="588" height="159" alt="Näyttökuva 2026-04-02 212618" src="https://github.com/user-attachments/assets/28ee8cec-6e9f-43ac-90e7-e495fc4ccf0c" />
 
-## d)
+## d) oikean ip:n tarkistaminen.
 
+
+<img width="643" height="140" alt="kuva" src="https://github.com/user-attachments/assets/fb6912ee-5fd4-477e-b120-f7d31757937a" />
 
 <img width="605" height="443" alt="kuva" src="https://github.com/user-attachments/assets/828b8bf1-b4b6-443c-967b-af42f59cc318" />
+
+## e) Portti skannaus.
+Skannaus paljasti että metasploit koneella on useita avoimia portteja kuten portti 21 joka on FTP joka mahdollistaa anonyymin kirjautumisen koneelle ilman salasanaa.
+
+
+
 
