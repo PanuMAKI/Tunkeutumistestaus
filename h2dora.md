@@ -26,7 +26,14 @@ Kuvissa näkyy että koneet saavat yhteyden toisiinsa mutta eivät internettiin.
 <img width="605" height="443" alt="kuva" src="https://github.com/user-attachments/assets/828b8bf1-b4b6-443c-967b-af42f59cc318" />
 
 ## e) Portti skannaus.
-Skannaus paljasti että metasploit koneella on useita avoimia portteja kuten portti 21 joka on FTP joka mahdollistaa anonyymin kirjautumisen koneelle ilman salasanaa.
+Skannaus paljasti että metasploit koneella on useita avoimia portteja kuten portit 21 22 ja 23.
+
+21 on on FTP joka mahdollistaa anonyymin kirjautumisen koneelle.
+
+22 on ssh joka voi aiheuttaa haavoittuvuuden koneelle jos on esimerkiksi heikko salasana
+
+23 telnet on suojaamaton etäyhteys jonka ssh on korvannut koska telnet käyttää suojaamatonta yhteyttä.
+
 
 
 
