@@ -50,6 +50,12 @@ https://terokarvinen.com/tunkeutumistestaus/#aikataulu
 
 https://medium.com/cyber-collective/setting-up-metasploitable-in-virtualbox-on-kali-linux-1d5c3212f7f3
 
+https://terokarvinen.com/buuri-2026-dora-and-threat-lead-penetration-testing/buuri-2026-dora-and-threat-lead-penetration-testing--teros-pentest-course.pdf
+
+https://eur-lex.europa.eu/eli/reg/2022/2554/oj/eng
+
+https://www.suomenpankki.fi/globalassets/bof/en/money-and-payments/the-bank-of-finland-as-catalyst-payments-council/tiber-fi/tiber-fi-2.0-procedures-and-guidelines.pdf
+
 
 
 
