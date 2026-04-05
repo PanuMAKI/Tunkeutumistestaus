@@ -9,7 +9,11 @@
   - TLPT on tehtävä vähintään 3 vuoden välein, ja sen tulee kattaa kriittiset toiminnot oikeissa tuotantojärjestelmissä.
   - Testaukseen sisällytetään myös ulkoistetut ICT-palvelut, mutta vastuu säilyy aina finanssiyrityksellä.
   - Testaajien tulee olla päteviä, riippumattomia ja sertifioituja.
-## TIBER-FI procedures and guidelines
+## TIBER-FI procedures and guidelines 5.4.1
+ - Red team -testisuunnitelma (RTTP) laaditaan uhkatiedusteluraportin (TTIR) pohjalta ja sisältää realistiset hyökkäysskenaariot sekä testin tavoitteet.
+ - Suunnitelma määrittää, miten hyökkäys toteutetaan käytännössä (menetelmät, kohteet ja “flagit”), ja se hyväksytään ennen varsinaisen testauksen aloittamista.
+
+
 ## a) Asenna Metasploitable 2 virtuaalikoneeseen.
 sain metasploitablen ladattua netistä löytyvällä ohjeella ongelmitta.
 
