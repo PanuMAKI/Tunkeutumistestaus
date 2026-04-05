@@ -1,7 +1,15 @@
 # H2 Dora the Expllora
 
-## x)
-
+## x) Tiivistelmä
+## DORA and TLPT testing - Lecture for Haaga-Helia on 31 March 2026
+  - Tiistaina 31.3 käydyn luonnon kalvot
+  - kalvoissa kerrottaan mikä on DORA
+  - Miten säädöksien mukaisia testejä suoritetaan.
+## DORA (Regulation ... on digital operational resilience for the financial sector) article 26,27
+  - TLPT on tehtävä vähintään 3 vuoden välein, ja sen tulee kattaa kriittiset toiminnot oikeissa tuotantojärjestelmissä.
+  - Testaukseen sisällytetään myös ulkoistetut ICT-palvelut, mutta vastuu säilyy aina finanssiyrityksellä.
+  - Testaajien tulee olla päteviä, riippumattomia ja sertifioituja.
+## TIBER-FI procedures and guidelines
 ## a) Asenna Metasploitable 2 virtuaalikoneeseen.
 sain metasploitablen ladattua netistä löytyvällä ohjeella ongelmitta.
 
