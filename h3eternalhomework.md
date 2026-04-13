@@ -33,5 +33,6 @@ koska aikaisemmin käytin komentoa "use 1" pystyin nyt vain laittamaan exploit k
 ## g) lateral movement.
 
 komennolla "cat /etc/shadow" saat listan käyttäjien salasanoista 
-<img width="898" height="113" alt="kuva" src="https://github.com/user-attachments/assets/eadbb7d8-a4e7-4872-ac69-dbd9388edcb0" />
+<img width="506" height="598" alt="kuva" src="https://github.com/user-attachments/assets/09134da8-75e8-4e43-a76d-7929fe469cec" />
+
 
