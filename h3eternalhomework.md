@@ -1,6 +1,11 @@
 # H3 EternalHomework
-## x)
-
+## x) nmap -sn komento
+  - ei tee portti skannausta
+  - niin sanottu pingscan
+  - antaa listan koneista jotka ovat "ylhäällä"
+  - skannaus on nopea eikä herätä paljoa huomiota
+  - lähteen pitäsi olla luotettava sillä kyseessä oli "nmap.org" sivusto
+    
 ## b) porttiskannaus
 Aloitin porttiskannaamalla metasploitable koneen komennolla "db_nmap -sV (Metasploitabe ip)" ja sain seuraavan tuloksen jossa näkyy koneen avoimet portit
 
@@ -61,7 +66,9 @@ tallensin script komenolla shell session teksittiedostoon. aloitin saman exploit
 
 
 ## Lähteet
+https://terokarvinen.com/tunkeutumistestaus/
+
+https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
 
 
-
-
+https://nmap.org/book/host-discovery-controls.html#host-discovery-sn
