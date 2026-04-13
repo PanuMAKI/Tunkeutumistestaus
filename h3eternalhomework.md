@@ -46,5 +46,22 @@ tämän jälkeen syötin komennon "exploit" joka avasi uuden yhteyden metasploit
 
 <img width="853" height="146" alt="kuva" src="https://github.com/user-attachments/assets/64923d77-c664-4659-b8e9-7430ff8464df" />
 
+## i) meterpreter
+
+Meterpreterillä pystyy esimerkiksi tarkistamaan järjestelmän tiedot ja käyttäjä oikeudet.
+
+<img width="525" height="155" alt="kuva" src="https://github.com/user-attachments/assets/b1c83db4-ca8d-44f1-a836-2e448b16423f" />
+
+## j) tallennus
+tallensin script komenolla shell session teksittiedostoon. aloitin saman exploitin kuin aikaisemmin.
+
+<img width="680" height="735" alt="kuva" src="https://github.com/user-attachments/assets/f63e492d-ec83-46a3-b068-adedf906067e" />
+
+## k) pivot point.
+
+
+## Lähteet
+
+
 
 
