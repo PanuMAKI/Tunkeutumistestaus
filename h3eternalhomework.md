@@ -13,3 +13,8 @@ Services komennolla pystyin tarkastella porttiskannauksesta tallennettuja tietoj
 
 services komentoa pystyin suodattaa muutamalla tavalla hakemaan tiettyä porttia tai nimeä.
 <img width="1048" height="405" alt="kuva" src="https://github.com/user-attachments/assets/7d3d2bc5-1470-4651-a3fe-399407ac79c5" />
+
+## d) internet famous.
+exploit haussa löytyi vsftpd backdoor exploit joka on todella vanha exploit jolla pääsee kohdekoneeseen käsiksi. Otin backdoorin käyttöön komennolla "use1"
+
+<img width="1068" height="185" alt="kuva" src="https://github.com/user-attachments/assets/bcaf9105-5076-4a08-b77e-e333ccf4b952" />
