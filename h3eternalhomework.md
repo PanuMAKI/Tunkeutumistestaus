@@ -41,6 +41,10 @@ toiseksi tavaksi valitsin exploit/unix/irc/unreal_ircd_3281_backdoor joka oli ma
 
 <img width="863" height="231" alt="kuva" src="https://github.com/user-attachments/assets/69ea7664-b09a-414f-b6df-d6e5ea92a31c" />
 
+Valitsin siis oikean exploitin ja laitoin RHOSTS ip osoitteen oikeaksi sekä LHOST ip osoitteen.
+tämän jälkeen syötin komennon "exploit" joka avasi uuden yhteyden metasploitable koneeseen.
+
+<img width="853" height="146" alt="kuva" src="https://github.com/user-attachments/assets/64923d77-c664-4659-b8e9-7430ff8464df" />
 
 
 
