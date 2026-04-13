@@ -27,5 +27,11 @@ exploit haussa löytyi vsftpd backdoor exploit joka on todella vanha exploit jol
 ensin laitoin rhosts metasploitabel koneen ip osoitteen ja lhost oman kali koneen ip osoitteen.
 
 koska aikaisemmin käytin komentoa "use 1" pystyin nyt vain laittamaan exploit komennon jonka tuloksena oli pääsy metasploitable koneen shelliin.
+
 <img width="898" height="113" alt="kuva" src="https://github.com/user-attachments/assets/58c6a0ae-8674-463d-b710-00d7d3c3c0fa" />
+
+## g) lateral movement.
+
+komennolla "cat /etc/shadow" saat listan käyttäjien salasanoista 
+<img width="898" height="113" alt="kuva" src="https://github.com/user-attachments/assets/eadbb7d8-a4e7-4872-ac69-dbd9388edcb0" />
 
