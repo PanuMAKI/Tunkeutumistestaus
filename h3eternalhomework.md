@@ -18,3 +18,14 @@ services komentoa pystyin suodattaa muutamalla tavalla hakemaan tiettyä porttia
 exploit haussa löytyi vsftpd backdoor exploit joka on todella vanha exploit jolla pääsee kohdekoneeseen käsiksi. Otin backdoorin käyttöön komennolla "use1"
 
 <img width="1068" height="185" alt="kuva" src="https://github.com/user-attachments/assets/bcaf9105-5076-4a08-b77e-e333ccf4b952" />
+
+## e) Vertailu
+"nmap -oA foo" tallentaa tiedoston .xml tai .txt tiedostona.
+"db_nmap" tallentaa metasploitin tietokantaan josta helpompi suodattaa tietoa ja etsiä tiettyjä asioita.
+
+## f) Murtautuminen vsftpd
+ensin laitoin rhosts metasploitabel koneen ip osoitteen ja lhost oman kali koneen ip osoitteen.
+
+koska aikaisemmin käytin komentoa "use 1" pystyin nyt vain laittamaan exploit komennon jonka tuloksena oli pääsy metasploitable koneen shelliin.
+<img width="898" height="113" alt="kuva" src="https://github.com/user-attachments/assets/58c6a0ae-8674-463d-b710-00d7d3c3c0fa" />
+
