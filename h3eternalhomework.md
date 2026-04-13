@@ -36,4 +36,11 @@ komennolla "cat /etc/shadow" saat listan käyttäjien salasanoista
 
 <img width="506" height="598" alt="kuva" src="https://github.com/user-attachments/assets/09134da8-75e8-4e43-a76d-7929fe469cec" />
 
+h) toinen tapa.
+toiseksi tavaksi valitsin exploit/unix/irc/unreal_ircd_3281_backdoor joka oli mainittu rapid7 metasploitable 2 exploitbility guidessa.
+
+<img width="863" height="231" alt="kuva" src="https://github.com/user-attachments/assets/69ea7664-b09a-414f-b6df-d6e5ea92a31c" />
+
+
+
 
